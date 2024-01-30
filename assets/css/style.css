@@ -1,0 +1,43 @@
+body {
+    background-image: url('../images/background.jpg');
+    background-size: cover;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    background-color: #982100;
+    color: #fff;
+    padding: 20px;
+}
+
+#content {
+    padding: 20px;
+    color: #fff;
+}
+
+#avatar {
+    max-width: 200px;
+    border-radius: 50%;
+}
+
+#social-icons {
+    margin-top: 20px;
+}
+
+a {
+    text-decoration: none;
+    margin: 0 10px;
+    color: #ffffff;
+}
+
+#p {
+    font-size: 30px; 
+}
+
+a img{
+    width: 40px;
+    height: 40px;
+}
